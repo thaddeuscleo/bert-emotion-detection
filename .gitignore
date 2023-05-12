@@ -1,0 +1,7 @@
+# Model
+pytorch_model.bin
+vocab.txt
+config.json
+
+# Editor settings
+.vscode/
